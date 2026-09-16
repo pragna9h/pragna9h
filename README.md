@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-I build intelligent applications and production-grade software systems,
+Building intelligent applications and production-grade software systems,
 with a focus on AI engineering, backend development, retrieval systems,
 and scalable infrastructure.
 </p>
@@ -18,14 +18,13 @@ and scalable infrastructure.
 -->
 ---
 
-### 👩‍💻 About Me
+### 👋 About Me
 
-- 🔭 Currently building **[MealMuse](https://github.com/pragna9h/meal-muse)** — a production-grade agentic AI system
+- 👨‍💻 Recently completed my Masters in CS at the [University of Southern California](https://www.usc.edu/)
 - 🤖 Interested in **Agentic AI, RAG, LLM orchestration, semantic retrieval & intelligent backend systems**
-- ⚙️ Building with **Python, FastAPI, PostgreSQL, pgvector, Docker & GCP**
 - 🌱 Currently deepening my knowledge of **distributed systems, cloud infrastructure & production AI**
 - 💼 Open to **Software Engineer, AI Engineer & Backend Engineer** opportunities
-
+- 🔭 I’m actively seeking **Full-time and Internship** oppurtunities in the United States
 
 
 ### 🛠️ Technology Stack
@@ -70,18 +69,21 @@ and scalable infrastructure.
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 
----
+<h4 align="left" style="display: inline;">🤝 Let's Connect - </h4> <p align="left">
+<a href="https://www.linkedin.com/in/saipragnaboyapati" target="blank" style="margin-right: 50px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" alt="linkedin-pragna" /></a> &nbsp;&nbsp;
+<a href="mailto:boyapatipragna@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" alt="mail-pragna" /></a>
+</p>
 
 
 <!--
 
-### 🤝 Let's Connet
+### 🤝 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/saipragnaboyapati">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:boyapatipragna@gmail,com">
+  <a href="mailto:boyapatipragna@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -90,31 +92,7 @@ and scalable infrastructure.
 
 -->
 
-### 🚀 Featured Projects
-
-#### 🍽️ [MealMuse — Production-Grade Agentic AI System](https://github.com/pragna9h/meal-muse)
-
-Ingredient-aware AI meal recommendation system combining **semantic retrieval, structured constraint filtering, ranking, and agentic reasoning** to generate personalized meal recommendations.
-
-`Python` `FastAPI` `PostgreSQL` `pgvector` `LLMs` `Embeddings` `Docker`
-
----
-
-#### 🎯 [SkillGraph — Career Recommendation Platform](https://github.com/pragna9h/skillgraph-career-recommendation)
-
-Knowledge-graph-powered career intelligence platform for **skill-gap analysis, role-readiness assessment, and personalized learning recommendations**.
-
-`Python` `Knowledge Graphs` `AI/ML` `Recommendation Systems`
-
----
-
-#### 📈 [HypeBeats — Trend Intelligence Platform](https://github.com/pragna9h/hypebeats-trend-intelligence)
-
-AI-powered trend intelligence platform using **NLP, semantic search, and consumer behavior signals** to identify emerging market trends.
-
-`Python` `NLP` `Semantic Search` `Machine Learning`
-
----
+### 🚀 Projects detailed below ↓
 
 
 
