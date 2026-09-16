@@ -6,15 +6,13 @@
 <b>Building intelligent applications and production-grade software systems, with a focus on AI engineering, backend development, retrieval systems, and scalable infrastructure.</b>
 </h3> -->
 
-<br/>
-
 
 ### 👋 About Me
 
-- 👨‍💻 Recently completed my Masters in CS at the [University of Southern California](https://www.usc.edu/)
+- 👨‍💻 Recently graduated with Masters in CS at the [University of Southern California](https://www.usc.edu/)
 - 🤖 Interested in **Agentic AI, RAG, LLM orchestration, semantic retrieval & intelligent backend systems**
 - 🌱 Currently deepening my knowledge of **distributed systems, cloud infrastructure & production AI**
-- 🔭 Actively seeking **Full-time and Internship** AI/ Software Engineer oppurtunities in the United States
+- 🔭 Actively seeking **Full-time and Internship** opportunities for AI/ Software Engineer roles in the United States
 
 <br/>
 
