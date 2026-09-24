@@ -6,13 +6,30 @@
 <b>Building intelligent applications and production-grade software systems, with a focus on AI engineering, backend development, retrieval systems, and scalable infrastructure.</b>
 </h3> -->
 
+<h3 align="center">
+· Software Engineer · AI · Backend Systems ·
+</h3>
+
 
 ### 👋 About Me
 
-- 👨‍💻 Recently graduated with Masters in CS at the [University of Southern California](https://www.usc.edu/)
-- 🤖 Interested in **Agentic AI, RAG, LLM orchestration, semantic retrieval & intelligent backend systems**
-- 🌱 Currently deepening my knowledge of **distributed systems, cloud infrastructure & production AI**
-- 🔭 Actively seeking **Full-time and Internship** opportunities for AI/ Software Engineer roles in the United States
+- 👨‍💻 Software Engineer with **2+ years of experience at JPMorgan Chase**, and an M.S. in Computer Science from the **[University of Southern California](https://www.usc.edu/)**
+- 🤖 Building at the intersection of **Software Engineering and Applied AI**, with a focus on agentic systems, RAG, semantic retrieval, and intelligent backend systems
+- ☁️ Hands-on experience taking AI systems from **retrieval and orchestration to containerization, CI, cloud deployment, and production validation**
+- 🌱 Currently deepening my knowledge of **distributed systems, cloud infrastructure, and production AI engineering**
+- 🔭 Seeking **full-time Software Engineer, AI Engineer, and AI Systems Engineer** opportunities in the United States
+
+<br/>
+
+### 🚀 Featured Project
+
+#### 💻 [MealMuse — Production-Grade Agentic AI System](https://github.com/pragna9h/meal-muse)
+
+An end-to-end AI meal discovery system that combines **LLM tool calling, hybrid retrieval, deterministic ranking, and production cloud infrastructure** to provide grounded meal recommendations and recipe search across 50K+ recipes.
+
+**Tech:** React · TypeScript · FastAPI · OpenAI · PostgreSQL · pgvector · Docker · GitHub Actions · Google Cloud
+
+🌐 **[Try MealMuse Live](https://mealmuse-frontend-y4ymgnrpwq-uw.a.run.app/)** 
 
 <br/>
 
@@ -22,7 +39,7 @@
 
 **AI / ML**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge&logo=databricks&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6C63FF?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-0081A7?style=for-the-badge) ![Embeddings](https://img.shields.io/badge/Embeddings-5A67D8?style=for-the-badge) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-0F766E?style=for-the-badge) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-7C3AED?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
 
-**Backend & Frameworks**  &nbsp; &nbsp;  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) 
+**Frameworks & Backend**  &nbsp; &nbsp;  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Databases & Data**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 
@@ -35,7 +52,7 @@
 <br/>
 
 
-<h4 align="left" style="display: inline;">🤝 Let's Connect - </h4> <p align="left">
+<h3 align="left" style="display: inline;">🤝 Let's Connect - </h3> <p align="left">
 <a href="https://www.linkedin.com/in/saipragnaboyapati" target="blank" style="margin-right: 50px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" alt="linkedin-pragna" /></a> &nbsp;&nbsp;
 <a href="mailto:boyapatipragna@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" alt="mail-pragna" /></a>
 </p>
@@ -43,7 +60,7 @@
 
 <br/>
 
-#### 🚀 Projects detailed below ↓
+### 🚀 Projects ↓
 
 
 
